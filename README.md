@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, ’m Ryan Wanyika — a cybersecurity practitioner working across offense, defense, automation and infrastructure. Skilled in computer repair & hardware diagnostics.
 
 <!--
 **heian-sukuna/heian-sukuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
